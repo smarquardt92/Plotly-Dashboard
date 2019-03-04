@@ -16,7 +16,7 @@ function buildMetadata(sample) {
 
   d3.json(metadataURL).then(function (data) {
     Object.entries(data).forEach(([key, value]) => {
-      panelMetadata.append("h6").text(`${key}: ${value}`);
+      panelMetaData.append("h6").text(`${key}: ${value}`);
     })
   })
 }
