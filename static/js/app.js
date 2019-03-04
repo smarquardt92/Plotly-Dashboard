@@ -101,3 +101,4 @@ function optionChanged(newSample) {
 
 // Initialize the dashboard
 init();
+server.listen(process.env.PORT || port)
