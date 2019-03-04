@@ -13,6 +13,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
+port = int(os.environ.get('PORT', 5000))
 
 #################################################
 # Database Setup
