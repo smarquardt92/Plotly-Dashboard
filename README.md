@@ -5,16 +5,15 @@
 # View the app below:
 https://arcane-eyrie-86520.herokuapp.com/
 
-
-#Data Source:
+# Data Source:
 [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 ## This app uses:
-# - Python
-# - Plotly.js
-# - Flask
-# - SQLite
-# - SQLalchemy
-# - Pandas
-# - Numpy
+- Python
+- Plotly.js
+- Flask
+- SQLite
+- SQLalchemy
+- Pandas
+- Numpy
 
