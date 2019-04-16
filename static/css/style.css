@@ -1,0 +1,14 @@
+#jumbotron  {
+    background: #875053 !important;
+    color: whitesmoke !important;
+}
+
+
+.card   {
+    background: white !important;
+}
+
+h3 {
+    font-size: 8pt !important;
+    font: message-box !important;
+}
